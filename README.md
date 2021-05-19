@@ -5,7 +5,7 @@ Cf. https://www.plctalk.net/qanda/showthread.php?t=129352
 Usage
 ----
 
-    % ### Start servers in a loop
+    % ### Start server repeatedly in a loop
     % while sleep 1 ; do python dominoserver.py || break ; end &
     [1] <PID>
 
