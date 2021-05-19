@@ -14,3 +14,8 @@ Usage
 
     % ### Stop server
     % kill %1
+
+TODO
+----
+
+Add printer response
